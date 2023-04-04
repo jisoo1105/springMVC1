@@ -6,6 +6,7 @@ import lombok.ToString;
 
 @Getter
 @Setter
+@ToString
 public class Member {
 
     private Long id;
